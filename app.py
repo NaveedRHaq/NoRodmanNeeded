@@ -3,7 +3,7 @@ import json
 
 # Replace 'your_file.csv' with your CSV file name
 csv_file_path = 'StudentsPerformance.csv'
-json_file_path = 'db1.json'
+json_file_path = './data/db1.json'
 
 # Function to convert values to integers where applicable
 def convert_to_int(row):
